@@ -1,0 +1,9 @@
+name: CropDrop
+main: ch.k42.cropdrop.Plugin
+version: ${project.version}
+description: Crop Drop Plugin, modifies drop rate of crops.
+authors: [AthmosPrime,trichner]
+
+depend:
+
+permissions:

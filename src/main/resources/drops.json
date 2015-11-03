@@ -1,0 +1,27 @@
+[
+  {
+    "material": "CROPS",
+    "data": 7,
+    "drops": [
+      {
+        "weight": 1,
+        "items": [
+          {
+            "type": "SEED",
+            "damage": 5,
+            "count": 3
+          }
+        ]
+      },
+      {
+        "weight": 3,
+        "items": [
+          {
+            "type": "WHEAT",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  }
+]
